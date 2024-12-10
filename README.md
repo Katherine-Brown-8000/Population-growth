@@ -10,3 +10,5 @@ Show population growth based on 7 factors
 7. mortality rate
 
 I realize there are ways to make this code more accurate for a real population, but it was useful for an estimate.
+
+![Alt]

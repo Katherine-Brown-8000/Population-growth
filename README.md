@@ -11,4 +11,4 @@ Show population growth based on 7 factors
 
 I realize there are ways to make this code more accurate for a real population, but it was useful for an estimate.
 
-![Alt]https://github.com/Katherine-Brown-8000/Population-growth/blob/main/Population%20growth%20display.png
+![Alt](https://github.com/Katherine-Brown-8000/Population-growth/blob/main/Population%20growth%20display.png)
